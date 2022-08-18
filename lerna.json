@@ -5,11 +5,13 @@
   "publishConfig": {
     "access": "public"
   },
-  "packages": ["packages/*"],
+  "packages": [
+    "packages/*"
+  ],
   "command": {
     "publish": {
       "npmClient": "npm"
     }
   },
-  "version": "10.0.2"
+  "version": "10.0.3"
 }

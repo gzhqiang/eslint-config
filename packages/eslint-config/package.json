@@ -1,6 +1,6 @@
 {
   "name": "@mysteel-gzq/eslint-config",
-  "version": "10.0.2",
+  "version": "10.0.3",
   "description": "ESlint config used for Nuxt",
   "repository": "nuxt/eslint-config",
   "license": "MIT",
