@@ -2,7 +2,7 @@
   "name": "@mysteel-gzq/eslint-config-typescript",
   "version": "10.0.5",
   "description": "ESlint config used for Nuxt with Typescript support",
-  "repository": "nuxt/eslint-config",
+  "repository": "gzhqiang/eslint-config",
   "license": "MIT",
   "files": [
     "index.js"
