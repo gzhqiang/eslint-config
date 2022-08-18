@@ -19,5 +19,8 @@
   "peerDependencies": {
     "eslint": "^8.15.0"
   },
-  "gitHead": "a47ca1fb4502429df341a5da81e3ad0ea02de8b9"
+  "gitHead": "71b9fb2c5e9d5cbe15180f3e49939dbc56731025",
+  "publishConfig": {
+    "access": "public"
+  }
 }
