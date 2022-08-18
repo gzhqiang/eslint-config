@@ -1,6 +1,6 @@
 {
   "name": "@mysteel-gzq/eslint-config-typescript",
-  "version": "10.0.0",
+  "version": "10.0.1",
   "description": "ESlint config used for Nuxt with Typescript support",
   "repository": "nuxt/eslint-config",
   "license": "MIT",

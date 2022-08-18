@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 10.0.1 (2022-08-18)
+
+**Note:** Version bump only for package @mysteel-gzq/eslint-config
+
+
+
+
+
+
 # [10.0.0](https://github.com/nuxt/eslint-config/compare/v1.0.1...v10.0.0) (2022-05-02)
 
 
