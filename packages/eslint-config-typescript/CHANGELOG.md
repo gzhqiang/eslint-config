@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [10.0.7](https://github.com/gzhqiang/eslint-config/compare/v10.0.6...v10.0.7) (2022-08-18)
+
+**Note:** Version bump only for package @mysteel-gzq/eslint-config-typescript
+
+
+
+
+
 ## [10.0.6](https://github.com/gzhqiang/eslint-config/compare/v10.0.5...v10.0.6) (2022-08-18)
 
 **Note:** Version bump only for package @mysteel-gzq/eslint-config-typescript
