@@ -124,7 +124,7 @@ module.exports = {
 
     // Maximum 5 attributes per line instead of one
     'vue/max-attributes-per-line': ['error', {
-      singleline: 2
+      singleline: 5
     }]
   },
   overrides: [

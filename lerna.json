@@ -2,9 +2,10 @@
   "npmClient": "yarn",
   "useWorkspaces": true,
   "conventionalCommits": true,
-  "packages": [
-    "packages/*"
-  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "packages": ["packages/*"],
   "command": {
     "publish": {
       "npmClient": "npm"
