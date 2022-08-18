@@ -8,7 +8,7 @@
     "index.js"
   ],
   "dependencies": {
-    "@nuxtjs/eslint-config": "^10.0.0",
+    "@mysteel-gzq/eslint-config": "^10.0.0",
     "@typescript-eslint/eslint-plugin": "^5.25.0",
     "@typescript-eslint/parser": "^5.25.0",
     "eslint-import-resolver-typescript": "^2.7.1",
